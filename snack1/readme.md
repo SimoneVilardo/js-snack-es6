@@ -8,6 +8,6 @@ SOLUZIONE:
 
 1.creo un array di oggetti con i nomi dei componenti del tavolo
 
-2.creo una nuova array dove aggiungo nome tavolo e il posto
+2.creo una nuova array dove aggiungo nome tavolo invitati e il posto
 
 3.ciclo l'array generato e stampo in console il risultato
