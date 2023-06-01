@@ -3,9 +3,9 @@ const invitati = [ 'Brad Pitt', 'Johnny Depp', 'Lady Gaga', 'Cristiano Ronaldo',
 const segnaposto = invitati.map((item, index) => {
 
     let oggetti ={
-        tavolo: 'Tavolo Vip',
-        name: item,
-        value: index + 1
+        'tavolo': 'Tavolo Vip',
+        'name': item,
+        'value': index + 1
     }
 
     return oggetti
