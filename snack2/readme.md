@@ -9,4 +9,10 @@ SOLUZIONE:
 1.creo un array con i dati della classe;
 
 2.creo una funzione per visualizzare i nomi degli studenti in maiuscolo
+    2.1ciclo l'array generato e stampo in console il risultato
 
+3.creo un array di tutti gli studenti che hanno un totale di voti superiore a 70
+    3.1ciclo l'array generato e stampo in console il risultato
+
+4.creo un array di tutti gli studenti che hanno un totale di voti superiore a 70 e id superiore a 120
+    4.1ciclo l'array generato e stampo in console il risultato
