@@ -1,3 +1,4 @@
+// array di oggetti con nome e peso delle varie bici 
 const arrayBici = [
     {
         nome: 'Bianchi',
@@ -25,9 +26,10 @@ const arrayBici = [
     },
 ];
 
-
+// variabile a cui assegno il primo oggetto dell'array
 let pesoMinore = arrayBici[0];
 
+// ciclo per trovare la bici con il peso minore
 arrayBici.forEach(({peso , nome}) => {
     if(peso < pesoMinore.peso){
         pesoMinore = {peso, nome}
